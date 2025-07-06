@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "丁小辉"
 excerpt: ""
 author_profile: true
 redirect_from: 
