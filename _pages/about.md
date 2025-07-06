@@ -19,7 +19,7 @@ redirect_from:
 
 丁小辉，江西新余人，中共党员，2020年获中国科学院东北地理与农业生态研究所地图学与地理信息系统专业博士学位，广东省科学院博士后，江西省高层次人才，江西财经大学硕士生导师​。主要从事基于遥感的建筑物三维重建、三维GIS数据模型、BIM与GIS数据模型融合等地理信息系统方向的研究工作。目前，主持在研国家自然科学基金青年项目1项，广东省科学院人才引进项目1项，参与国家重点研发项目1项，广东省科学院战略先导科技专项项目1项，南方海洋科学与工程广东省实验室（广州）重大专项团队项目1项。近年来，在《International Journal of RemoteSensing》、《Transactions in GIS》、《Remote Sensing》、《Open GeoSciences》、《遥感技术与应用》、《地球信息科学学报》、《激光与光电子学进展》等国内外权威期刊发表论文10余篇，其中，第一作者或通讯作者SCI/SSCI检索6篇，第一作者或通讯作者CSCD检索3篇。以第一发明人身份授权国家发明专利4项，授权软件著作权4项，参编学术专著1部.
 
-#📝 招生要求
+# 📝 招生要求
 地理学、计算机相关背景专业的本科生优先。
 主要研究方向：BIM与三维GIS数据模型、基于遥感图像的建筑物三维重建、地理空间智能（深度学习+遥感应用）、点云数据处理与分析
 
@@ -33,7 +33,6 @@ redirect_from:
 # 📝 主要论文 
 
 
-
 [1] **Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (decision pending)<br />
 [2] **Xiaohui Ding**, Ji Yang, Ge Zhang, et al., (2025).Effects of land use change on ecosystem service value under different scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area. GeoCarto International (Accepted)<br />
 [3]Jiang W,**Ding X**, Kong F, et al. How Hydrological Extremes Affect the Chlorophyll-a Concentration in Inland Water in Jiujiang City, China: Evidence from Satellite Remote Sensing[J]. ISPRS International Journal of Geo-Information, 2025, 14(2): 85.<br />
@@ -45,7 +44,7 @@ redirect_from:
 [9]**丁小辉**,张树清,陈祥葱,李华朋,刘照.时空对象行为分类与形式化表达[J].地球信息科学学报, 2017, 19(09):1195-1200. <br />
 [10]张根，**丁小辉**，杨骥，王华，基于多尺度自适应胶囊网络的高光谱遥感分类[J]. 激光与光电子学进展, 2021.<br />
 
- # 📝 主要项目
+ # 📝 主要项目<br />
  【1】国家自然科学基金青年项目，面向室内子空间路径规划的BIM与GIS一体化建模方法研究（42201467），在研，主持。<br />
  【2】广东省科学院“千名博士（后）计划”引进专项，面向城市土地利用多源遥感分类的多尺度胶囊网络研究（2021GDASYL-20210103001），结题，主持。 <br />
  【3】广东省人力社会资源保障厅博士后专项基金，基于泛知识化三维GIS数据模型的BIM轻量化表达方法研究，结题，主持。<br />
