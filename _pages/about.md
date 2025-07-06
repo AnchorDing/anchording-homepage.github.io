@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+丁小辉，江西新余人，中共党员，2020年获中国科学院东北地理与农业生态研究所地图学与地理信息系统专业博士学位，广东省科学院博士后，江西省高层次人才，江西财经大学硕士生导师​。主要从事基于遥感的建筑物三维重建、三维GIS数据模型、BIM与GIS数据模型融合等地理信息系统方向的研究工作。目前，主持在研国家自然科学基金青年项目1项，广东省科学院人才引进项目1项，参与国家重点研发项目1项，广东省科学院战略先导科技专项项目1项，南方海洋科学与工程广东省实验室（广州）重大专项团队项目1项。近年来，在《International Journal of RemoteSensing》、《Transactions in GIS》、《Remote Sensing》、《Open GeoSciences》、《遥感技术与应用》、《地球信息科学学报》、《激光与光电子学进展》等国内外权威期刊发表论文10余篇，其中，第一作者或通讯作者SCI/SSCI检索6篇，第一作者或通讯作者CSCD检索3篇。以第一发明人身份授权国家发明专利4项，授权软件著作权4项，参编学术专著1部.
+ <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 江西省地理学会理事.
+- *2024.08*: &nbsp;🎉🎉 江西省高层次人才. 
+- *2022.08*: &nbsp;🎉🎉 获批国家自然科学基金青年基金项. 
 
 # 📝 Publications 
 
