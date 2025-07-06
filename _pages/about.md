@@ -25,24 +25,38 @@ redirect_from:
 - *2024.08*: &nbsp;🎉🎉 江西省高层次人才. 
 - *2022.08*: &nbsp;🎉🎉 获批国家自然科学基金青年基金项. 
 
-# 📝 Publications 
+# 📝 主要论文 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geo-spatial Information Science</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment](Geo-spatial Information Science: decision pending)
+**Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (decision pending)
+**Xiaohui Ding**, Ji Yang, Ge Zhang, et al., (2025).Effects of land use change on ecosystem service value under different scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area. GeoCarto International (Accepted)
+Jiang W,**Ding X**, Kong F, et al. How Hydrological Extremes Affect the Chlorophyll-a Concentration in Inland Water in Jiujiang City, China: Evidence from Satellite Remote Sensing[J]. ISPRS International Journal of Geo-Information, 2025, 14(2): 85.
+**Ding Xiaohui**, Li Yong, Yang Ji, Li Huapeng, Liu Lingjia, Liu Yangxiaoyue, Zhang Ce. (2021). An adaptive capsule network for hyperspectral remote sensing classification. Remote Sensing, 13(13), 2445. 
+**Ding Xiaohui**, Zhang Shuqing, Li Huapeng, Wu Peng, Dale Patricia, Liu Lingjia, Cheng Shuai. (2020). A restrictive polymorphic ant colony algorithm for the optimal band selection of hyperspectral remote sensing images. International Journal of Remote Sensing, 41(3), 1093-1117.
+**Ding Xiaohui**, Yang Ji, Liu Lingjia, Huang Wumeg, Wu Peng. (2020). Integrating IFC and CityGML model at schema level by using linguistic and text mining techniques. IEEE Access, 8, 56429-56440. 
+**Xiaohui Ding**, Huapeng Li, Yong Li, Ji Yang, Shuqing Zhang. (2020). Comparison of swarm intelligence algorithms for optimized band selection of hyperspectral remote sensing image. Open Geosciences, 12(1), 425-442
+**丁小辉**, 李华朋, 张树清. 基于多态蚁群算法的高光谱遥感影像最优波段选择[J]. 遥感技术与应用, 2016, 31(02):275-284.
+**丁小辉**,张树清,陈祥葱,李华朋,刘照.时空对象行为分类与形式化表达[J].地球信息科学学报, 2017, 19(09):1195-1200. 
+张根，**丁小辉**，杨骥，王华，基于多尺度自适应胶囊网络的高光谱遥感分类[J]. 激光与光电子学进展, 2021.
 
-**Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions in GIS </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[ An iterative approach based on contextual information for matching multi‐scale polygonal object datasets]
-Liu Lingjia, **Xiaohui Ding**, Zhu Xinyan, Fan Liang, Gong Jun. 
-
-Ding Xiaohui, Li Yong, Yang Ji, Li Huapeng, Liu Lingjia, Liu Yangxiaoyue, Zhang Ce. (2021). An adaptive capsule network for hyperspectral remote sensing classification. Remote Sensing, 13(13), 2445. 
-
-
-  
+ # 📝 主要项目
+ 【1】国家自然科学基金青年项目，面向室内子空间路径规划的BIM与GIS一体化建模方法研究（42201467），在研，主持。
+ 【2】广东省科学院“千名博士（后）计划”引进专项，面向城市土地利用多源遥感分类的多尺度胶囊网络研究（2021GDASYL-20210103001），结题，主持。 
+ 【3】广东省人力社会资源保障厅博士后专项基金，基于泛知识化三维GIS数据模型的BIM轻量化表达方法研究，结题，主持。
+ 【4】南方海洋科学与工程广东省实验室（广州）重大专项团队项目，粤港澳大湾区海岸带生态环境大数据与分析（GML2019ZD0301）子课题“海岸带开发利用时空格局特征与演化”，结题，主持。
+ 【5】广东省重点领域研发计划项目，广东省 2019-nCoV 疫情爆发期返粤人群时空分布和风险分析与预测研究(2020B111116001)，结题，参与。 
+ 【6】广东省科学院战略先导科技专项，新一代全空间 GIS 关键技术研发及应用（2019GDASYL-0301001）， 结题，参与。
+ 【7】国家重点研发计划，全空间信息系统与智能设施管理（2016YFB0502300），结题，参与。 
+ 【8】高分专项（21-Y30B05-9001-13/15-2），高分湿地资源监测应用示范系统（子课题），结题，主要完成人。
+ 【9】基于遥感大数据智能识别技术的找矿方法研究与应用，主持，结题。
+ 【10】基于哨兵-2 号影像的九江市水质参数遥感反演，主持，结题。
+ 【11】居民经济福祉感知数据调查与测试加工，主持，在研。
+ 【12】上海市入海河流总氮卫星遥感监测与分析，主持，在研。
+ 【13】融合遥感信息与建筑知识的城市建筑物三维重建方法研究，主持，在研。
+ 
+ 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
