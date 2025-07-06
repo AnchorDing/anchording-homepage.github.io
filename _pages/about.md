@@ -27,13 +27,20 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geo-spatial Information Science</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AHybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment](Geo-spatial Information Science: decision pending)
+[A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment](Geo-spatial Information Science: decision pending)
 
 **Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions in GIS </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[ An iterative approach based on contextual information for matching multi‐scale polygonal object datasets]
+Liu Lingjia, **Ding Xiaohui**, Zhu Xinyan, Fan Liang, Gong Jun. 
+
+
+  
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
