@@ -62,13 +62,16 @@ redirect_from:
 -  (2) “优秀员工”-2021年2月-广东省科学院广州地理研究所
 -  (3) “抗疫先进个人”-2021年2月-广东省科学院广州地理研究所​
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 教育经历
+- *2016.07 - 2020.01*, 中国科学院东北地理与农业生态研究所  地图学与地理信息系统专业 博士. 
+- *2013.09 - 2016.07*, 中国科学院东北地理与农业生态研究所  地图学与地理信息系统专业 硕士.
+- *2009.09 - 2013.07*, 江西师范大学  地图学与地理信息系统专业 学士. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📖 工作经历
+- *2022.11至今*, 江西财经大学软件与物联网工程学院. 
+- *2020.03-2022.08*, 广东省科学院广州地理研究所.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 指导硕士研究生
+- 张根   2019级硕士研究生  广东工业大学联合培养，毕业去向：水利部珠江水利委员会水文水利局.
+- 刘权  2024级硕士研究生  江西财经大学  在读
+- 龚智成  2025级硕士研究生  江西财经大学  在读
