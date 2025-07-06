@@ -37,7 +37,9 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Transactions in GIS </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ An iterative approach based on contextual information for matching multi‐scale polygonal object datasets]
-Liu Lingjia, **Ding Xiaohui**, Zhu Xinyan, Fan Liang, Gong Jun. 
+Liu Lingjia, **Xiaohui Ding**, Zhu Xinyan, Fan Liang, Gong Jun. 
+
+Ding Xiaohui, Li Yong, Yang Ji, Li Huapeng, Liu Lingjia, Liu Yangxiaoyue, Zhang Ce. (2021). An adaptive capsule network for hyperspectral remote sensing classification. Remote Sensing, 13(13), 2445. 
 
 
   
