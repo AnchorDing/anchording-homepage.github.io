@@ -30,7 +30,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geo-spatial Information Science</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[1] **Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (decision pending)
+[1] **Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (decision pending)<br />
 [2] **Xiaohui Ding**, Ji Yang, Ge Zhang, et al., (2025).Effects of land use change on ecosystem service value under different scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area. GeoCarto International (Accepted)
 <div>Jiang W,**Ding X**, Kong F, et al. How Hydrological Extremes Affect the Chlorophyll-a Concentration in Inland Water in Jiujiang City, China: Evidence from Satellite Remote Sensing[J]. ISPRS International Journal of Geo-Information, 2025, 14(2): 85.</div>
 <div>**Ding Xiaohui**, Li Yong, Yang Ji, Li Huapeng, Liu Lingjia, Liu Yangxiaoyue, Zhang Ce. (2021). An adaptive capsule network for hyperspectral remote sensing classification. Remote Sensing, 13(13), 2445. </div>
