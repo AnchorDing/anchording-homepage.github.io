@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "丁小辉"
-description              : "江西财经大学 软件与物联网工程学院. "
+description              : "江西财经大学 "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "丁小辉"
   avatar           : "images/android-chrome.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "软件与物联网工程学院"
+  location         : "中国.南昌"
   employer         :
   pubmed           : 
   googlescholar    : "https://software.jxufe.edu.cn/news-show-3541.html"
