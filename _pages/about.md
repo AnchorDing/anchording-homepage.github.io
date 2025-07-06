@@ -31,15 +31,15 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 <div>**Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (decision pending)</div>
-**Xiaohui Ding**, Ji Yang, Ge Zhang, et al., (2025).Effects of land use change on ecosystem service value under different scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area. GeoCarto International (Accepted)
-Jiang W,**Ding X**, Kong F, et al. How Hydrological Extremes Affect the Chlorophyll-a Concentration in Inland Water in Jiujiang City, China: Evidence from Satellite Remote Sensing[J]. ISPRS International Journal of Geo-Information, 2025, 14(2): 85.
-**Ding Xiaohui**, Li Yong, Yang Ji, Li Huapeng, Liu Lingjia, Liu Yangxiaoyue, Zhang Ce. (2021). An adaptive capsule network for hyperspectral remote sensing classification. Remote Sensing, 13(13), 2445. 
-**Ding Xiaohui**, Zhang Shuqing, Li Huapeng, Wu Peng, Dale Patricia, Liu Lingjia, Cheng Shuai. (2020). A restrictive polymorphic ant colony algorithm for the optimal band selection of hyperspectral remote sensing images. International Journal of Remote Sensing, 41(3), 1093-1117.
-**Ding Xiaohui**, Yang Ji, Liu Lingjia, Huang Wumeg, Wu Peng. (2020). Integrating IFC and CityGML model at schema level by using linguistic and text mining techniques. IEEE Access, 8, 56429-56440. 
-**Xiaohui Ding**, Huapeng Li, Yong Li, Ji Yang, Shuqing Zhang. (2020). Comparison of swarm intelligence algorithms for optimized band selection of hyperspectral remote sensing image. Open Geosciences, 12(1), 425-442
-**丁小辉**, 李华朋, 张树清. 基于多态蚁群算法的高光谱遥感影像最优波段选择[J]. 遥感技术与应用, 2016, 31(02):275-284.
-**丁小辉**,张树清,陈祥葱,李华朋,刘照.时空对象行为分类与形式化表达[J].地球信息科学学报, 2017, 19(09):1195-1200. 
-张根，**丁小辉**，杨骥，王华，基于多尺度自适应胶囊网络的高光谱遥感分类[J]. 激光与光电子学进展, 2021.
+<div>**Xiaohui Ding**, Ji Yang, Ge Zhang, et al., (2025).Effects of land use change on ecosystem service value under different scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area. GeoCarto International (Accepted)</div>
+<div>Jiang W,**Ding X**, Kong F, et al. How Hydrological Extremes Affect the Chlorophyll-a Concentration in Inland Water in Jiujiang City, China: Evidence from Satellite Remote Sensing[J]. ISPRS International Journal of Geo-Information, 2025, 14(2): 85.</div>
+<div>**Ding Xiaohui**, Li Yong, Yang Ji, Li Huapeng, Liu Lingjia, Liu Yangxiaoyue, Zhang Ce. (2021). An adaptive capsule network for hyperspectral remote sensing classification. Remote Sensing, 13(13), 2445. </div>
+<div>**Ding Xiaohui**, Zhang Shuqing, Li Huapeng, Wu Peng, Dale Patricia, Liu Lingjia, Cheng Shuai. (2020). A restrictive polymorphic ant colony algorithm for the optimal band selection of hyperspectral remote sensing images. International Journal of Remote Sensing, 41(3), 1093-1117.</div>
+<div>**Ding Xiaohui**, Yang Ji, Liu Lingjia, Huang Wumeg, Wu Peng. (2020). Integrating IFC and CityGML model at schema level by using linguistic and text mining techniques. IEEE Access, 8, 56429-56440. </div>
+<div>**Xiaohui Ding**, Huapeng Li, Yong Li, Ji Yang, Shuqing Zhang. (2020). Comparison of swarm intelligence algorithms for optimized band selection of hyperspectral remote sensing image. Open Geosciences, 12(1), 425-442</div>
+<div>**丁小辉**, 李华朋, 张树清. 基于多态蚁群算法的高光谱遥感影像最优波段选择[J]. 遥感技术与应用, 2016, 31(02):275-284.</div>
+<div>**丁小辉**,张树清,陈祥葱,李华朋,刘照.时空对象行为分类与形式化表达[J].地球信息科学学报, 2017, 19(09):1195-1200. </div>
+<div>张根，**丁小辉**，杨骥，王华，基于多尺度自适应胶囊网络的高光谱遥感分类[J]. 激光与光电子学进展, 2021.</div>
 
  # 📝 主要项目
  【1】国家自然科学基金青年项目，面向室内子空间路径规划的BIM与GIS一体化建模方法研究（42201467），在研，主持。
