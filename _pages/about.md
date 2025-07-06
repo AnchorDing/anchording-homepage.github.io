@@ -27,8 +27,7 @@ redirect_from:
 
 # 📝 主要论文 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Geo-spatial Information Science</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 [1] **Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (decision pending)<br />
 [2] **Xiaohui Ding**, Ji Yang, Ge Zhang, et al., (2025).Effects of land use change on ecosystem service value under different scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area. GeoCarto International (Accepted)<br />
@@ -56,17 +55,12 @@ redirect_from:
  【12】上海市入海河流总氮卫星遥感监测与分析，主持，在研。<br />
  【13】融合遥感信息与建筑知识的城市建筑物三维重建方法研究，主持，在研。<br />
  
- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- （1）丁小辉(25/30); 重大呼吸道传染病疫情防控大数据方法、技术与应用, 测绘 科学技术奖特等奖, 中国测绘学会, 其他, 其他, 2021(裴涛; 李勇; 曹志冬; 杨骥; 宋辞; 葛咏; 尹凌; 张媚; 王劲峰; 李振军; 方志祥; 陈洁; 邓应彬; 姚 凌; 何亚文; 黄吴蒙; 许剑辉; 胡茂桂; 徐勇; 杜云艳; 马廷; 王旭阳; 许 珺; 潘屹峰; 丁小辉; 吕露; 徐成 东; 张书颖; 于德湖; 刘亚溪). 
+-  (2) “优秀员工”-2021年2月-广东省科学院广州地理研究所
+-  (3) “抗疫先进个人”-2021年2月-广东省科学院广州地理研究所​
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
