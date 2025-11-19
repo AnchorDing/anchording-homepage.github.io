@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-丁小辉，江西新余人，中共党员，2020年获中国科学院东北地理与农业生态研究所地图学与地理信息系统专业博士学位，广东省科学院博士后，江西省高层次人才，江西财经大学硕士生导师​，江西省地理学会理事。主要从事基于遥感的建筑物三维重建、三维GIS数据模型、BIM与GIS数据模型融合等地理信息系统方向的研究工作。目前，主持在研国家自然科学基金青年项目1项，广东省科学院人才引进项目1项，参与国家重点研发项目1项，广东省科学院战略先导科技专项项目1项，南方海洋科学与工程广东省实验室（广州）重大专项团队项目1项。近年来，在《International Journal of RemoteSensing》、《Transactions in GIS》、《Remote Sensing》、《Open GeoSciences》、《遥感技术与应用》、《地球信息科学学报》、《激光与光电子学进展》等国内外权威期刊发表论文10余篇，其中，第一作者或通讯作者SCI/SSCI检索6篇，第一作者或通讯作者CSCD检索3篇。以第一发明人身份授权国家发明专利4项，授权软件著作权4项，参编学术专著1部.
+丁小辉，江西新余人，中共党员，2020年获中国科学院东北地理与农业生态研究所地图学与地理信息系统专业博士学位，广东省科学院博士后，江西省高层次人才，江西财经大学硕士生导师​，江西省地理学会理事。主要从事基于遥感的建筑物三维重建、三维GIS数据模型、BIM与GIS数据模型融合等地理信息系统方向的研究工作。目前，主持在研国家自然科学基金青年项目1项，广东省科学院人才引进项目1项，参与国家重点研发项目1项，广东省科学院战略先导科技专项项目1项，南方海洋科学与工程广东省实验室（广州）重大专项团队项目1项。近年来，在《Geo-spatial Information Sciences》、《International Journal of RemoteSensing》、《Transactions in GIS》、《Remote Sensing》、《Open GeoSciences》、《遥感技术与应用》、《地球信息科学学报》、《激光与光电子学进展》等国内外权威期刊发表论文10余篇，其中，第一作者或通讯作者SCI/SSCI检索6篇，第一作者或通讯作者CSCD检索3篇。以第一发明人身份授权国家发明专利4项，授权软件著作权4项，参编学术专著1部.
 
 # 📝 Admission information
 在我们日常接触到数据中，80%以上的数据都包含有空间信息。随着大数据时代的来临，人们越来越关心如何从这些海量的数据中挖掘有价值的信息，尤其是时空信息。而人工智能（AI）的出现，无疑为我们从海量数据中挖掘有价值的时空信息增添了“神兵利器”。随着航空航天技术以及物联网技术的发展，太空有卫星交织的密集对地观测网，空中有无人机遥感网，地面有监测站点构建的观测网，这些“空-天-地”网络每时每刻都在采集大量的对地观测数据，以帮助人类更好地进行导航通信、灾害监测预警、环境质量监测、军事目标监控、国土空间规划等应用，让人类更加透彻的感知发生在地球上的每一件事。
@@ -34,6 +34,7 @@ redirect_from:
 - *2009.09 - 2013.07*, 江西师范大学  地图学与地理信息系统专业 学士. 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 论文《A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment》被GIS权威期刊Geo-spatial Information Science接收.
 - *2025.07*: &nbsp;🎉🎉 江西省地理学会理事.
 - *2024.08*: &nbsp;🎉🎉 江西省高层次人才. 
 - *2022.08*: &nbsp;🎉🎉 获批国家自然科学基金青年基金项目. 
@@ -41,7 +42,7 @@ redirect_from:
 # 📝 Publications 
 
 
-[1] **Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (decision pending)<br />
+[1] **Xiaohui Ding**, Lingjia Liu, Ce Zhang, Wei Jiang, Siwen Cao, Cai Fu. (2025). A Hybrid Spatial-Temporal Data Model for Indoor Dynamic Path Planning in a 2D/2.5D Environment. Geo-spatial Information Science (Accepted)<br />
 [2] **Xiaohui Ding**, Ji Yang, Ge Zhang, et al., (2025).Effects of land use change on ecosystem service value under different scenarios in the Guangdong-Hong Kong-Macao Greater Bay Area. GeoCarto International (Accepted)<br />
 [3]Jiang W,**Ding X**, Kong F, et al. How Hydrological Extremes Affect the Chlorophyll-a Concentration in Inland Water in Jiujiang City, China: Evidence from Satellite Remote Sensing[J]. ISPRS International Journal of Geo-Information, 2025, 14(2): 85.<br />
 [4]**Ding Xiaohui**, Li Yong, Yang Ji, Li Huapeng, Liu Lingjia, Liu Yangxiaoyue, Zhang Ce. (2021). An adaptive capsule network for hyperspectral remote sensing classification. Remote Sensing, 13(13), 2445. <br />
